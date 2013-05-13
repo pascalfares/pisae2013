@@ -1,0 +1,194 @@
+﻿/**
+  * Theme comme utilisé pour si.cofares.net
+  * Pour ne pas partir de zero
+  */
+
+#index-banner {
+        background-color:#c1002a;
+    	width:1000px;
+	/* height:79px; */
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+/** OLD  border: 5px solid #aab; */
+#index-wrapper {
+	background-image:url(http://si.cofares.net/images/ISAE/ciel.gif);
+        background-repeat:repeat;
+        width: 1000px;
+        margin:0px auto;
+        border: 5px solid #f55;
+        /* opacity: 0.5; */
+}
+#wrap {
+   margin:0;
+   width:1000px;
+}
+.nextblock {
+	clear:both;
+}
+/** OLD  border: 3px solid #a9a; */ 
+#index-content {
+	background-color: rgba(255,255,255,0.4);
+    	top:0;
+	margin: 0 auto;
+	padding: 0;
+    	width:1000px;
+	border: 3px solid #f55;
+}
+#index-pub {
+	background: url(http://si.cofares.net/images/ISAE/ciel.gif) repeat;
+        top:0;
+	margin: auto; 
+	padding: 10px;
+        width: 510px;
+	border: 10px solid #99a;
+}
+
+#index-sidebar {
+	background:transparent;
+        top:0;
+	      margin: 0;
+	      padding: 0;
+        width: 119px;
+        height:100%;
+	      border: 1px solid #99b;
+}
+
+#index-footer { 
+	background:transparent;
+	margin: 45px 20% 0 20%; 
+	padding: 10px;
+	border: 2px solid #999; 
+        text-align: center;
+}
+
+body{
+	font: normal normal 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+	color: #222222;
+	background: #cfe7d1 url(http://si.cofares.net/images/ISAE/siBackgroud.png) repeat fixed top center;
+	padding: 0 0 0 0;
+	background-attachment: fixed;
+}
+
+
+.titre       { font-family: Utopia;  
+               font-weight: bold;
+               color: #66BBCC ;
+               font-size : 110%;
+             }
+
+.ident       { list-style-position: outside; 
+               list-style-type: disc;   
+               color: #000000;
+               font-size : small; 
+               font-family : "Comic Sans MS";
+             }
+
+.code        {font-family: Courier; border-style: solid; 
+             }
+
+.chanel {
+
+ height:100%;
+ padding-top: 1em;
+ font-family : "Comic Sans MS";
+ font-size: 80%;
+}
+
+.chanel .title {
+  border: 1px solid #d0d0f8;
+  background-image:url(http://si.cofares.net/images/ISAE/mer.gif); 
+  background-repeat:repeat;
+  margin-top:-1em;
+  /* opacity: 0.5; */
+}
+
+.tablechanel {
+   border:0;
+   border-top: 5px solid #d0d0f8;
+   width:100%;
+   height:100%;
+   border-left: 5px solid #99c;
+   border-radius: 10px;
+   border-bottom-right-radius: 1px;
+   border-bottom-left-radius: 1px;
+}
+.chanel .body {
+  border: 1px solid #d0d0f8;
+}
+
+.intro {
+        background-color: transparent;
+        color: inherit;
+        text-align: justify;
+        font-size: 0.8em;
+        border: 0px solid #d0d0f8;
+        padding: 0px;
+        margin-bottom: 1px;
+}
+
+li.title, td.title, div.title, H2.section {
+        background-image:url(http://si.cofares.net/images/ISAE/mer.gif); background-repeat:repeat;
+        color: maroon;
+        font-family: Verdana, Impact, Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        font-size: 2.0em;
+        padding: 0px;
+        text-align: center;
+   border-radius: 10px;
+   border-bottom-right-radius: 1px;
+   border-bottom-left-radius: 1px;
+}
+
+a:hover {
+        background-color: rgba(#f,#f,#f,0.6);
+        color: #333366;
+        border: 1px solid #d0d0f8;
+}
+
+div#header{
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100%;
+}
+
+#navlist
+{
+	color: white;
+	background-image:url(http://si.cofares.net/images/ISAE/mer.gif); background-repeat:repeat;
+	padding: 0 1px;
+        border: 0px;
+	margin: 0;
+	width: 117px;
+	font: normal 1em Verdana, sans-serif;
+	text-align: center;
+}
+
+#navlist li
+{
+	list-style: none;
+	margin: 0;
+}
+
+#navlist a, #navlist a:active
+{
+	display: block;
+	text-decoration: none;
+	margin: 2px;
+	color: white;
+	background: #39c;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #5bd #035 #068 #6cf;
+	padding:  2px;
+	border-radius: 4px;
+}
+#navlist a:hover
+{
+	background: #28b;
+        border-width: 4px;
+	border-color: #4ac #024 #057 #5be;
+	border-radius: 8px;
+}
