@@ -1,0 +1,3 @@
+[submodule "mathexp"]
+	path = mathexp
+	url = git@github.com:pascalfares/mathexp.git
