@@ -1,3 +1,6 @@
 [submodule "mathexp"]
 	path = mathexp
 	url = git@github.com:pascalfares/mathexp.git
+[submodule "efsm_workflow"]
+	path = efsm_workflow
+	url = git@github.com:pascalfares/efsm_workflow.git
