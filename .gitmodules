@@ -4,3 +4,6 @@
 [submodule "efsm_workflow"]
 	path = efsm_workflow
 	url = git@github.com:pascalfares/efsm_workflow.git
+[submodule "cnam-AnnouncementSystem"]
+	path = cnam-AnnouncementSystem
+	url = git@github.com:nabihbarakat/cnam-AnnouncementSystem.git
