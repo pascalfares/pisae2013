@@ -7,3 +7,9 @@
 [submodule "cnam-AnnouncementSystem"]
 	path = cnam-AnnouncementSystem
 	url = git@github.com:nabihbarakat/cnam-AnnouncementSystem.git
+[submodule "composition-des-diplomes"]
+	path = composition-des-diplomes
+	url = git@github.com:salim-ismail/composition-des-diplomes.git
+[submodule "web-App"]
+	path = web-App
+	url = git@github.com:jeanchayeb/web-App.git
