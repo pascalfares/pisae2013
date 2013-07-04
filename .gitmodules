@@ -16,3 +16,6 @@
 [submodule "mobacc"]
 	path = mobacc
 	url = git@github.com:alitaha89/mobacc.git
+[submodule "DemandeDiplome"]
+	path = DemandeDiplome
+	url = git@github.com:abdowazen/DemandeDiplome-.git
