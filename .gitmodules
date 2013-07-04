@@ -13,3 +13,6 @@
 [submodule "web-App"]
 	path = web-App
 	url = git@github.com:jeanchayeb/web-App.git
+[submodule "mobacc"]
+	path = mobacc
+	url = git@github.com:alitaha89/mobacc.git
