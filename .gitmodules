@@ -22,6 +22,6 @@
 [submodule "ChattingApp"]
 	path = ChattingApp
 	url = https://github.com/ptartarian/ChattingApp.git
-[submodule "projetisae2013"]
-	path = projetisae2013
-	url = https://github.com/jadkaady/projetisae2013.git
+[submodule "GenericWorkflow"]
+	path = GenericWorkflow
+	url = https://github.com/jadkaady/GenericWorkflow
