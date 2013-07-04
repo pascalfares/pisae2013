@@ -19,3 +19,6 @@
 [submodule "DemandeDiplome"]
 	path = DemandeDiplome
 	url = git@github.com:abdowazen/DemandeDiplome-.git
+[submodule "ChattingApp"]
+	path = ChattingApp
+	url = https://github.com/ptartarian/ChattingApp.git
