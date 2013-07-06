@@ -8,5 +8,5 @@ ce projet est le projet maitre des sous-projets des auditeurs. Les sous modules 
 
 Et autres ...
 
-[Page du projet](http://projet.cofares.net)
-[Portail des auditeurs](http://wiki.cofares.net)
++ [Page du projet](http://projet.cofares.net)
++ [Portail des auditeurs](http://wiki.cofares.net)
