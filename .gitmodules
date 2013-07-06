@@ -25,3 +25,6 @@
 [submodule "GenericWorkflow"]
 	path = GenericWorkflow
 	url = https://github.com/jadkaady/GenericWorkflow
+[submodule "GestionStocksReparties"]
+	path = GestionStocksReparties
+	url = git@github.com:zeinazgheib/GestionStocksReparties.git
