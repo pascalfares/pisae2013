@@ -37,3 +37,6 @@
 [submodule "assurance"]
 	path = assurance
 	url = git@github.com:faridmitri/assurance.git
+[submodule "PROJETD-EMPLOI"]
+	path = PROJETD-EMPLOI
+	url = git@github.com:HusseinNSD/PROJETD-EMPLOI.git
