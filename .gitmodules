@@ -34,3 +34,6 @@
 [submodule "Gestion-des-d-penses-personnelles-mobile-"]
 	path = Gestion-des-d-penses-personnelles-mobile-
 	url = git@github.com:kamalalimokh/Gestion-des-d-penses-personnelles-mobile-.git
+[submodule "assurance"]
+	path = assurance
+	url = git@github.com:faridmitri/assurance.git
