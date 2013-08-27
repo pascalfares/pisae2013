@@ -28,3 +28,6 @@
 [submodule "GestionStocksReparties"]
 	path = GestionStocksReparties
 	url = git@github.com:zeinazgheib/GestionStocksReparties.git
+[submodule "EmploymentSite"]
+	path = EmploymentSite
+	url = git@github.com:hisham-abifarah/EmploymentSite.git
