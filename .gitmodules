@@ -31,3 +31,6 @@
 [submodule "EmploymentSite"]
 	path = EmploymentSite
 	url = git@github.com:hisham-abifarah/EmploymentSite.git
+[submodule "Gestion-des-d-penses-personnelles-mobile-"]
+	path = Gestion-des-d-penses-personnelles-mobile-
+	url = git@github.com:kamalalimokh/Gestion-des-d-penses-personnelles-mobile-.git
