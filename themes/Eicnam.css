@@ -1,0 +1,208 @@
+#menu-horizontal{
+		background-color:#c1002a;
+		color:#fff;
+		width:1004px;
+		height:32px;
+		border-right:1px solid #c1002a;
+		border-left:1px solid #c1002a;
+		position:relative;
+		z-index:10;
+		padding-left:10px;
+		padding-right:10px;
+	}
+	
+	#menu-horizontal li{
+		width:108px;
+		float:left;
+		background-color:#c1002a;
+		color:#fff;
+		height:32px;
+		border-right:1px solid white;
+		line-height:32px;
+		text-align:center;
+	}
+	
+	#menu-horizontal li.acces{
+		float:right;
+		border-left:1px solid white;
+		border-right:none;
+		
+	}
+	
+	#menu-horizontal li.first{
+		border-left:1px solid white;
+	}
+	#menu-horizontal li.last{
+		border-right:1px solid white;
+	}
+	
+	#menu-horizontal li.last .sousmenu{
+		position:relative;
+		left:-108px;
+	}
+	
+	#menu-horizontal li a{
+		color:#fff;
+		font-size:11px;
+		line-height:13px;
+		text-decoration:none;
+		font-weight:bold;
+		text-align:center;
+		display:inline-block;
+		vertical-align:middle;
+	}
+	
+	#menu-horizontal li a span {
+		padding: 0 2px;
+	}
+	
+	#menu-horizontal .sousmenu{
+		display:none;
+		width:216px;
+		background-color:#cfc8c0;
+		position:relative;
+		z-index:9999;
+		padding-top:12px;
+	}
+	
+	#menu-horizontal li.first .sousmenu{
+		border-left:1px solid #cfc8c0;
+	}
+	
+	#menu-horizontal li .sousmenu li{
+		padding-left:12px;	
+	}
+	
+	#menu-horizontal li .sousmenu li,
+	#menu-horizontal li .sousmenu li a{
+		background-color:#cfc8c0;
+		color:#857761;
+		width:204px;
+		text-align:left;
+		border:0;
+	}
+	
+	#menu-horizontal li .sousmenu li.focus a,
+	#menu-horizontal li .sousmenu li a:hover,
+	#menu-horizontal li .sousmenu li a.ishover{
+		color:#555;
+	}
+	
+	#menu-horizontal li.focus,
+	#menu-horizontal li:hover,
+	#menu-horizontal li.focus a,
+	#menu-horizontal li:hover a,
+	#menu-horizontal li.ishover,
+	#menu-horizontal li.ishover a{
+		background-color:#cfc8c0;
+		color:#555;
+	}
+	
+	#menu-horizontal li.ishover .sousmenu,
+	#menu-horizontal li:hover .sousmenu{
+		display:block;
+	}
+
+	body.certification #bandeau, 
+	body.ue #bandeau, 
+	body.stage #bandeau, 
+	body.apprentissage #bandeau {
+		height: auto;
+		margin: 0;
+	}
+
+	#entete_fiche {
+		/*left: 199px;
+		margin: 0;
+		height: 160px;
+		min-height: 160px;
+		position: absolute;
+		top: -192px;
+		width: 825px;
+		background-color:#fff;
+		z-index:10;*/
+		
+		position:static;
+		height:auto;
+		min-height:1px;
+		width:100%;
+		padding:0;
+		margin:0;
+		margin-bottom:30px;
+	}
+	#entete_fiche h2{
+		/*margin:20px;*/
+		
+	}
+	
+	#entete_fiche #chapeau{
+		/*padding:0 20px;*/
+		min-height:0;
+		height:auto;
+		width:100%;
+		border-left:2px solid #c1002a;
+		padding-left:20px;
+		color: #999999;
+		font-weight: 700;
+	}
+	
+	body.certification #fil_ariane, 
+	body.ue #fil_ariane, 
+	body.stage #fil_ariane, 
+	body.apprentissage #fil_ariane {
+		position:relative;
+		top: 0px;
+		width: 100%;
+	}
+	
+
+
+	body.certification #fond-rubrique, 
+	body.ue #fond-rubrique, 
+	body.stage #fond-rubrique, 
+	body.apprentissage #fond-rubrique{
+		width:1024px;
+	
+	}
+	
+	
+	#encart{
+		width:221px;
+		margin:0;
+		border: 2px solid #888;
+		border-radius: 12px;
+		background-image:none;
+		margin-bottom:30px;
+	}
+	
+	#encart div{
+		width:221px;
+	}
+	
+	#encart-bottom {
+		display:none;
+		
+	}
+	
+	#code-ue, 
+	#code-certification, 
+	#code-apprentissage, 
+	h3#code-stage{
+		background-image:none;
+		border-bottom:2px solid #888;
+		background-color:transparent;
+	}
+	
+	
+	
+	body p#encadre_vae img{
+		width:220px;
+		padding:0;
+	}
+	
+	#page #bandeau-image{
+		background-color:#c1002a;
+		width:100%;
+		height:200px;
+	}
+	
